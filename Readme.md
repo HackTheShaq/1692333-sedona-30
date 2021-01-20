@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Sergey Sunyaykin](https://up.htmlacademy.ru/htmlcss/30/user/1692333).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Корбут](https://htmlacademy.ru/profile/kotovyy).
 
 ---
 
